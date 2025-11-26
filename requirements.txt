@@ -1,0 +1,13 @@
+streamlit>=1.38.0
+fastapi>=0.115.0
+uvicorn[standard]>=0.30.0
+tensorflow==2.16.2
+# ou si tu es sur Apple Silicon M1/M2/M3/M4 :
+# tensorflow-macos==2.16.2
+# tensorflow-metal==1.1.0
+
+pillow>=10.0.0
+numpy>=1.24.0
+python-multipart>=0.0.9
+requests>=2.31.0
+matplotlib>=3.7.0
